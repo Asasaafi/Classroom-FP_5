@@ -1,0 +1,16 @@
+{
+  "name": "classroom-fp_5",
+  "version": "1.0.0",
+  "description": "npm init -y",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.16.1",
+    "three": "^0.181.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html"
+  }
+}
